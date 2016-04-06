@@ -1,2 +1,2 @@
-# music-store
-Music Store
+# chloe-seed
+Chloe Seed
